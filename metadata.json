@@ -1,0 +1,7 @@
+{
+  "name": "Home Insurance Photo Uploader",
+  "description": "A customer-facing web application that allows home insurance applicants to easily upload or take specific photos required for underwriting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
